@@ -5,7 +5,8 @@ import Vue from 'vue'
 
 const routes = {
   '/': 'App',
-  '/city': 'City'
+  '/city': 'City',
+  '/load': 'Load'
 };
 
 

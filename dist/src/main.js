@@ -10,7 +10,8 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var routes = {
   '/': 'App',
-  '/city': 'City'
+  '/city': 'City',
+  '/load': 'Load'
 };
 
 /* eslint-disable no-new */
