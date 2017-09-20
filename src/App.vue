@@ -48,10 +48,11 @@ export default {
   },
   methods: {
     addToLists () {
+      if (!this.input_value) return;
       this.lists.push({
         label: this.input_value,
         is_finished: false
-      })
+      });
       this.input_value = ''
     },
     deleteList (list, index) {
