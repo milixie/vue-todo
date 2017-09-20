@@ -38,8 +38,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #2c3e50;
-    width: 400px;
-    margin: 60px auto;
+    margin: 20px auto;
   }
 
   .city {

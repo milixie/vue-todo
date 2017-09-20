@@ -15220,7 +15220,7 @@
 
 <style>
   .city-select {
-    width: 400px;
+    width: 100%;
     padding: 10px 0;
     border: 1px solid #ddd;
     box-shadow: 1px 1px 1px #eee;
@@ -15244,6 +15244,7 @@
   }
   .sub-city-wrap {
     padding: 0;
+    display: inline-block;
   }
   .sub-li {
     display: inline-block;
